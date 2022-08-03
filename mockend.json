@@ -1,7 +1,0 @@
-{
-    "Balances": {
-        "id": "id",
-        "balance_amount": "balanceAmount",
-        "balance_currency": "balanceCurrency"
-    }
-}
