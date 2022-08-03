@@ -3,8 +3,11 @@
         "title": {
             "string": {}
         },
-        "balances": {
-            "isBalance": "12"
+        "likes": {
+            "int": {
+                "min": 0,
+                "max": 1000000
+            }
         }
     }
 }
