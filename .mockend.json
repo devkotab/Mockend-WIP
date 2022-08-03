@@ -1,14 +1,7 @@
 {
-    "Post": {
-      "title": { "string": {} },
-      "comments": {
-        "hasMany": "Comment"
-      }
-    },
-    "Comment": {
-      "body": { "string": {} },
-      "post": {
-        "belongsTo": "Post"
-      }
+    "Balances": {
+        "id": "123",
+        "balance_amount": "5.50",
+        "balance_currency": "CAD"
     }
-  }
+}
