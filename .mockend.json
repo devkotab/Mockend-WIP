@@ -1,12 +1,12 @@
 {
-    "Balance 1": {
-        "id": 1,
-        "name": "Gift Card",
-        "amount": 21.50
-    },
-    "Balance 2": {
-        "id": 2,
-        "name": "Rebate",
-        "amount": 1.75
+    "Balances": {
+        "gift_card": {
+            "id": 22112,
+            "amount": 5.5
+        },
+        "rebate_balance": {
+            "id": 12321,
+            "amount": 7.0
+        }
     }
 }
