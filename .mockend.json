@@ -4,7 +4,28 @@
             5.50
         ],
         "rebate_balance": [
-           6.70
+            6.70
         ]
+    }
+}
+
+{
+    "Balances": {
+        "name": {
+            "string": {}
+        },
+        "details": {
+            "currency": "CAD",
+            "amount": "5.50"
+        }
+    },
+    "Rebates": {
+        "name": {
+            "string": {}
+        },
+        "details": {
+            "currency": "CAD"
+            "amount": "6.70"
+        }
     }
 }
