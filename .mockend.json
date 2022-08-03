@@ -1,12 +1,18 @@
 {
     "Balances": {
-        "gift_card": {
-            "id": 22112,
-            "amount": 5.5
-        },
-        "rebate_balance": {
-            "id": 12321,
-            "amount": 7.0
-        }
+        "gift_card": [
+            {
+                "id": 12321,
+                "amount": "5.50",
+                "currency": "CAD"
+            }
+        ],
+        "rebate_balance": [
+            {
+                "id": 54324,
+                "amount": "6.70",
+                "currency": "CAD"
+            }
+        ]
     }
 }
