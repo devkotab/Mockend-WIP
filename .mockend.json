@@ -1,7 +1,7 @@
 {
     "Balances": {
-        "id": "123",
-        "balance_amount": "5.50",
+        "id": 123,
+        "balance_amount": 5.50,
         "balance_currency": "CAD"
     }
 }
