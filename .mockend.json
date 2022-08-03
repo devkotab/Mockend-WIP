@@ -1,22 +1,10 @@
 {
     "Balances": {
-        "gift_card": [
-            5.50
-        ],
-        "rebate_balance": [
-            6.70
-        ]
-    }
-}
-
-{
-    "Balances": {
         "name": {
             "string": {}
         },
         "details": {
-            "currency": "CAD",
-            "amount": "5.50"
+            "currency": "CAD"
         }
     },
     "Rebates": {
@@ -25,7 +13,6 @@
         },
         "details": {
             "currency": "CAD"
-            "amount": "6.70"
         }
     }
 }
